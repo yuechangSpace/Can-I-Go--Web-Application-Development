@@ -1,0 +1,2932 @@
+{
+    "summary": {
+        "cu": "USD",
+        "et": 1590186152,
+        "op": [
+            {
+                "k": "JFK",
+                "t": "New York City, NY (JFK)",
+                "p": "$878"
+            }
+        ],
+        "fi": -1,
+        "pd": "$878",
+        "dp": [
+            {
+                "k": "PEK",
+                "t": "Beijing, CN (PEK)",
+                "p": "$878"
+            }
+        ],
+        "ap": [
+            {
+                "k": "DUB",
+                "t": "Dublin, IE (DUB)",
+                "p": "$1,320"
+            },
+            {
+                "k": "HKG",
+                "t": "Hong Kong, HK (HKG)",
+                "p": "$1,046"
+            },
+            {
+                "k": "IST",
+                "t": "Istanbul, TR (IST)",
+                "p": "$878"
+            },
+            {
+                "k": "LHR",
+                "t": "London, GB (LHR)",
+                "p": "$7,474"
+            },
+            {
+                "k": "LAX",
+                "t": "Los Angeles, CA (LAX)",
+                "p": "$1,046"
+            },
+            {
+                "k": "OSL",
+                "t": "Oslo, NO (OSL)",
+                "p": "$878"
+            },
+            {
+                "k": "CDG",
+                "t": "Paris, FR (CDG)",
+                "p": "$1,307"
+            },
+            {
+                "k": "PDX",
+                "t": "Portland, OR (PDX)",
+                "p": "$1,186"
+            },
+            {
+                "k": "KEF",
+                "t": "Reykjavik, IS (KEF)",
+                "p": "$878"
+            },
+            {
+                "k": "SFO",
+                "t": "San Francisco, CA (SFO)",
+                "p": "$1,046"
+            },
+            {
+                "k": "SNN",
+                "t": "Shannon, IE (SNN)",
+                "p": "$1,307"
+            },
+            {
+                "k": "TPE",
+                "t": "Taipei, TW (TPE)",
+                "p": "$2,413"
+            },
+            {
+                "k": "WAW",
+                "t": "Warsaw, PL (WAW)",
+                "p": "$1,007"
+            }
+        ],
+        "sd": [
+            {
+                "k": "0",
+                "min": "2020-06-28T04:10:00Z",
+                "max": "2020-06-29T01:05:00Z",
+                "tz": "America/New_York"
+            }
+        ],
+        "sa": [
+            {
+                "k": "0",
+                "min": "2020-06-29T07:35:00Z",
+                "max": "2020-07-01T10:25:00Z",
+                "tz": "Asia/Shanghai"
+            }
+        ],
+        "su": [
+            {
+                "k": "0",
+                "min": 1645,
+                "max": 4055
+            }
+        ],
+        "a": [
+            {
+                "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/wifi.png",
+                "k": "WIFI",
+                "t": "WiFi"
+            },
+            {
+                "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/power.png",
+                "k": "POWER",
+                "t": "Power available"
+            },
+            {
+                "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/tv.png",
+                "k": "TV",
+                "t": "Television"
+            }
+        ],
+        "cp": [
+            {
+                "k": "TK",
+                "t": "Turkish Airlines",
+                "p": "$988"
+            },
+            {
+                "k": "ZZ",
+                "t": "Multiple Airlines",
+                "p": "$878"
+            }
+        ],
+        "ocp": [
+            {
+                "k": "TK",
+                "t": "Turkish Airlines",
+                "p": "$988"
+            },
+            {
+                "k": "ZZ",
+                "t": "Multiple Airlines",
+                "p": "$878"
+            }
+        ],
+        "pp": [
+            {
+                "k": "AA",
+                "t": "American Airlines",
+                "p": "$7,474"
+            },
+            {
+                "k": "CheapFaresNow",
+                "t": "CheapFaresNow",
+                "p": "$1,047"
+            },
+            {
+                "k": "CheapoAir",
+                "t": "CheapOair",
+                "p": "$1,046"
+            },
+            {
+                "k": "EDreams",
+                "t": "eDreams",
+                "p": "$878"
+            },
+            {
+                "k": "FlightNetwork",
+                "t": "FlightNetwork",
+                "p": "$1,148"
+            },
+            {
+                "k": "GoToGate",
+                "t": "GoToGate",
+                "p": "$1,178"
+            },
+            {
+                "k": "JustFly",
+                "t": "JustFly",
+                "p": "$1,074"
+            },
+            {
+                "k": "OneTravel",
+                "t": "OneTravel",
+                "p": "$1,046"
+            },
+            {
+                "k": "Travelgenio",
+                "t": "Travelgenio",
+                "p": "$1,143"
+            },
+            {
+                "k": "Travix",
+                "t": "Vayama",
+                "p": "$1,084"
+            }
+        ],
+        "sp": [
+            {
+                "k": "ONE_STOP",
+                "t": "1 Stop",
+                "p": "$988"
+            },
+            {
+                "k": "TWO_PLUS",
+                "t": "2+ Stops",
+                "p": "$878"
+            }
+        ],
+        "dn": 1645,
+        "dx": 4055,
+        "da": 2757.8125,
+        "nr": 84,
+        "so": [
+            {
+                "st": "Sorted by Price",
+                "n": "Price",
+                "k": "PRICE"
+            },
+            {
+                "st": "Sorted by FlyScore",
+                "n": "FlyScore",
+                "dc": "FlyScore is based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews.",
+                "k": "FLIGHTSCORE"
+            },
+            {
+                "st": "Sorted by Duration",
+                "n": "Duration",
+                "k": "DURATION"
+            },
+            {
+                "st": "Sorted by Best Value",
+                "n": "Best Value",
+                "dc": "These flights offer the best combination of price, flight duration, and sometimes factors such as additional fees.",
+                "k": "ML_BEST_VALUE"
+            },
+            {
+                "st": "Sorted by Earliest outbound departure",
+                "n": "Earliest outbound departure",
+                "k": "EARLIEST_OUTBOUND_DEPARTURE"
+            },
+            {
+                "st": "Sorted by Earliest outbound arrival",
+                "n": "Earliest outbound arrival",
+                "k": "EARLIEST_OUTBOUND_ARRIVAL"
+            },
+            {
+                "st": "Sorted by Latest outbound departure",
+                "n": "Latest outbound departure",
+                "k": "LATEST_OUTBOUND_DEPARTURE"
+            },
+            {
+                "st": "Sorted by Latest outbound arrival",
+                "n": "Latest outbound arrival",
+                "k": "LATEST_OUTBOUND_ARRIVAL"
+            }
+        ],
+        "c": true,
+        "f": false,
+        "p": 877.77,
+        "sh": "d16bd82219acb42dd0f779a97192d4b7"
+    },
+    "itineraries": [
+        {
+            "key": "00TKTK0.1630JFK1.0155IST0~00TKTK1.2230IST2.0735PEK0",
+            "ac": "00TKTK0.1630JFK1.0155IST0~00TKTK1.2230IST2.0735PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 987.9,
+                        "f": 0,
+                        "dp": "$988",
+                        "df": "$0.00"
+                    },
+                    "id": "Odigeo|1|15",
+                    "m": "EDreamsUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2953",
+                    "s": "EDreams",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1046.6562,
+                        "f": 289.6,
+                        "dp": "$1,047",
+                        "df": "$289.60"
+                    },
+                    "id": "CheapFaresNow|1|1",
+                    "m": "LBFUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2954",
+                    "s": "CheapFaresNow",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "OneTravel|1|9",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2955",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "CheapoAir|1|14",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2956",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1073.44,
+                        "f": 0,
+                        "dp": "$1,074",
+                        "df": "$0.00"
+                    },
+                    "id": "FlightHub|1|1",
+                    "m": "JustFlyInternationalUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2957",
+                    "s": "JustFly",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1083.62,
+                        "f": 313.62,
+                        "dp": "$1,084",
+                        "df": "$313.62"
+                    },
+                    "id": "Travix|1|2",
+                    "m": "VayamaUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2958",
+                    "s": "Travix",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1142.63,
+                        "f": 301.6,
+                        "dp": "$1,143",
+                        "df": "$301.60"
+                    },
+                    "id": "Travelgenio|1|2",
+                    "m": "TravelgenioUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2959",
+                    "s": "Travelgenio",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1147.6,
+                        "f": 301.6,
+                        "dp": "$1,148",
+                        "df": "$301.60"
+                    },
+                    "id": "FlightNetwork|1|1",
+                    "m": "FlightNetworkUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2960",
+                    "s": "FlightNetwork",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1177.58,
+                        "f": 0,
+                        "dp": "$1,178",
+                        "df": "$0.00"
+                    },
+                    "id": "GoToGate|1|2",
+                    "m": "GotoGateUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2961",
+                    "s": "GoToGate",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "IST",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "789",
+                            "f": "4",
+                            "si": 3877,
+                            "n": 0,
+                            "dd": "2020-06-28T12:30:00-04:00",
+                            "ad": "2020-06-29T04:55:00+03:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4993.419
+                        },
+                        {
+                            "da": "IST",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "20",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-30T01:30:00+03:00",
+                            "ad": "2020-06-30T15:35:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4392.9375
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "IST",
+                            "d": 1235,
+                            "t": "Long layover at IST for <b>20h 35m</b>",
+                            "c": "LONG"
+                        }
+                    ],
+                    "od": []
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1276",
+            "fsl": "VERY_GOOD",
+            "fs": 6.266492,
+            "od": ""
+        },
+        {
+            "key": "00FIFI1.0025JFK1.0615KEF0~00FIFI1.0750KEF1.1035OSL0~00LOLO1.1745OSL1.1945WAW0~00LOLO2.1430WAW2.2235PEK0",
+            "ac": "00FIFI1.0025JFK1.0615KEF0~00FIFI1.0750KEF1.1035OSL0~00LOLO1.1745OSL1.1945WAW0~00LOLO2.1430WAW2.2235PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1006.35,
+                        "f": 0,
+                        "dp": "$1,007",
+                        "df": "$0.00"
+                    },
+                    "id": "Odigeo|1|16",
+                    "m": "EDreamsUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2962",
+                    "s": "EDreams",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "KEF",
+                            "c": 0,
+                            "m": "FI",
+                            "o": "FI",
+                            "e": "75W",
+                            "f": "614",
+                            "si": 1414,
+                            "n": 0,
+                            "dd": "2020-06-28T20:25:00-04:00",
+                            "ad": "2020-06-29T06:15:00Z",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2588.6309
+                        },
+                        {
+                            "da": "KEF",
+                            "aa": "OSL",
+                            "c": 0,
+                            "m": "FI",
+                            "o": "FI",
+                            "e": "75W",
+                            "f": "318",
+                            "si": 1414,
+                            "n": 0,
+                            "dd": "2020-06-29T07:50:00Z",
+                            "ad": "2020-06-29T12:35:00+02:00",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1108.9143
+                        },
+                        {
+                            "da": "OSL",
+                            "aa": "WAW",
+                            "c": 0,
+                            "m": "LO",
+                            "o": "LO",
+                            "e": "E95",
+                            "f": "484",
+                            "si": 2245,
+                            "n": 0,
+                            "dd": "2020-06-29T19:45:00+02:00",
+                            "ad": "2020-06-29T21:45:00+02:00",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 671.3503
+                        },
+                        {
+                            "da": "WAW",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "LO",
+                            "o": "LO",
+                            "e": "789",
+                            "f": "91",
+                            "si": 3390,
+                            "n": 0,
+                            "dd": "2020-06-30T16:30:00+02:00",
+                            "ad": "2020-07-01T06:35:00+08:00",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4320.264
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "KEF",
+                            "d": 95,
+                            "t": "Layover at KEF for <b>1h 35m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "OSL",
+                            "d": 430,
+                            "t": "Long layover at OSL for <b>7h 10m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "WAW",
+                            "d": 1125,
+                            "t": "Long layover at WAW for <b>18h 45m</b>",
+                            "c": "LONG"
+                        }
+                    ],
+                    "od": []
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1277",
+            "fsl": "AVERAGE",
+            "fs": 5.069908,
+            "od": ""
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2100LAX0.2230SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2100LAX0.2230SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1045.18,
+                        "f": 40.18,
+                        "dp": "$1,046",
+                        "df": "$40.18"
+                    },
+                    "id": "OneTravel|1|5",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2963",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1045.18,
+                        "f": 40.18,
+                        "dp": "$1,046",
+                        "df": "$40.18"
+                    },
+                    "id": "CheapoAir|1|10",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2964",
+                    "s": "CheapoAir",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2710",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T14:00:00-07:00",
+                            "ad": "2020-06-28T15:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "333",
+                            "f": "5900",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 175,
+                            "t": "Layover at LAX for <b>2h 55m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 565,
+                            "t": "Long layover at SFO for <b>9h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1278",
+            "fsl": "VERY_GOOD",
+            "fs": 6.018985,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2100LAX0.2230SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2100LAX0.2230SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1045.18,
+                        "f": 40.18,
+                        "dp": "$1,046",
+                        "df": "$40.18"
+                    },
+                    "id": "OneTravel|1|6",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2965",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1045.18,
+                        "f": 40.18,
+                        "dp": "$1,046",
+                        "df": "$40.18"
+                    },
+                    "id": "CheapoAir|1|11",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2966",
+                    "s": "CheapoAir",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2710",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T14:00:00-07:00",
+                            "ad": "2020-06-28T15:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 175,
+                            "t": "Layover at LAX for <b>2h 55m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 565,
+                            "t": "Long layover at SFO for <b>9h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1279",
+            "fsl": "VERY_GOOD",
+            "fs": 6.1079845,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2300LAX1.0030SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2300LAX1.0030SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "CheapoAir|1|13",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2967",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "OneTravel|1|10",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2968",
+                    "s": "OneTravel",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2821",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T16:00:00-07:00",
+                            "ad": "2020-06-28T17:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "333",
+                            "f": "5900",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 295,
+                            "t": "Long layover at LAX for <b>4h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 445,
+                            "t": "Long layover at SFO for <b>7h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1280",
+            "fsl": "VERY_GOOD",
+            "fs": 6.018985,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS1.0000LAX1.0130SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS1.0000LAX1.0130SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "OneTravel|1|11",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2969",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "CheapoAir|1|16",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2970",
+                    "s": "CheapoAir",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2712",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T17:00:00-07:00",
+                            "ad": "2020-06-28T18:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "333",
+                            "f": "5900",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 355,
+                            "t": "Long layover at LAX for <b>5h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 385,
+                            "t": "Long layover at SFO for <b>6h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1281",
+            "fsl": "VERY_GOOD",
+            "fs": 6.018985,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS1.0000LAX1.0130SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS1.0000LAX1.0130SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "CheapoAir|1|17",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2971",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "OneTravel|1|7",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2972",
+                    "s": "OneTravel",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2712",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T17:00:00-07:00",
+                            "ad": "2020-06-28T18:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 355,
+                            "t": "Long layover at LAX for <b>5h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 385,
+                            "t": "Long layover at SFO for <b>6h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1282",
+            "fsl": "VERY_GOOD",
+            "fs": 6.1079845,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2300LAX1.0030SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.2300LAX1.0030SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "CheapoAir|1|12",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2973",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1050.78,
+                        "f": 45.78,
+                        "dp": "$1,051",
+                        "df": "$45.78"
+                    },
+                    "id": "OneTravel|1|8",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2974",
+                    "s": "OneTravel",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2821",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T16:00:00-07:00",
+                            "ad": "2020-06-28T17:30:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 295,
+                            "t": "Long layover at LAX for <b>4h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 445,
+                            "t": "Long layover at SFO for <b>7h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1283",
+            "fsl": "VERY_GOOD",
+            "fs": 6.1079845,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.1930LAX0.2100SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.1930LAX0.2100SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1075.18,
+                        "f": 40.18,
+                        "dp": "$1,076",
+                        "df": "$40.18"
+                    },
+                    "id": "OneTravel|1|18",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2975",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1075.18,
+                        "f": 40.18,
+                        "dp": "$1,076",
+                        "df": "$40.18"
+                    },
+                    "id": "CheapoAir|1|18",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2976",
+                    "s": "CheapoAir",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2708",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T12:30:00-07:00",
+                            "ad": "2020-06-28T14:00:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 85,
+                            "t": "Layover at LAX for <b>1h 25m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 655,
+                            "t": "Long layover at SFO for <b>10h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1284",
+            "fsl": "VERY_GOOD",
+            "fs": 6.1079845,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.1930LAX0.2100SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1200JFK0.1805LAX0~00QXAS0.1930LAX0.2100SFO0~00CXCX1.0755SFO1.2200HKG0~00CXCX1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1075.18,
+                        "f": 40.18,
+                        "dp": "$1,076",
+                        "df": "$40.18"
+                    },
+                    "id": "CheapoAir|1|8",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2977",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1075.18,
+                        "f": 40.18,
+                        "dp": "$1,076",
+                        "df": "$40.18"
+                    },
+                    "id": "OneTravel|1|2",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2978",
+                    "s": "OneTravel",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "LAX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "403",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T08:00:00-04:00",
+                            "ad": "2020-06-28T11:05:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2471.7385
+                        },
+                        {
+                            "da": "LAX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2708",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T12:30:00-07:00",
+                            "ad": "2020-06-28T14:00:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 338.42484
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "333",
+                            "f": "5900",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "LAX",
+                            "d": 85,
+                            "t": "Layover at LAX for <b>1h 25m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 655,
+                            "t": "Long layover at SFO for <b>10h 55m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1285",
+            "fsl": "VERY_GOOD",
+            "fs": 6.018985,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1330JFK0.1935PDX0~00QXAS0.2045PDX0.2235SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1330JFK0.1935PDX0~00QXAS0.2045PDX0.2235SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1185.18,
+                        "f": 40.18,
+                        "dp": "$1,186",
+                        "df": "$40.18"
+                    },
+                    "id": "OneTravel|1|19",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2979",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1185.18,
+                        "f": 40.18,
+                        "dp": "$1,186",
+                        "df": "$40.18"
+                    },
+                    "id": "CheapoAir|1|22",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2980",
+                    "s": "CheapoAir",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "PDX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "479",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T09:30:00-04:00",
+                            "ad": "2020-06-28T12:35:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2449.5806
+                        },
+                        {
+                            "da": "PDX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2420",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T13:45:00-07:00",
+                            "ad": "2020-06-28T15:35:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 551.0258
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "PDX",
+                            "d": 70,
+                            "t": "Layover at PDX for <b>1h 10m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 560,
+                            "t": "Long layover at SFO for <b>9h 20m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1286",
+            "fsl": "VERY_GOOD",
+            "fs": 6.211972,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        },
+        {
+            "key": "00ASAS0.1330JFK0.1935PDX0~00QXAS1.0000PDX1.0151SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "ac": "00ASAS0.1330JFK0.1935PDX0~00QXAS1.0000PDX1.0151SFO0~00CXCX1.0755SFO1.2200HKG0~00KAKA1.2330HKG2.0250PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 1185.78,
+                        "f": 45.78,
+                        "dp": "$1,186",
+                        "df": "$45.78"
+                    },
+                    "id": "CheapoAir|1|1",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2981",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1185.78,
+                        "f": 45.78,
+                        "dp": "$1,186",
+                        "df": "$45.78"
+                    },
+                    "id": "OneTravel|1|23",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2982",
+                    "s": "OneTravel",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "PDX",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "AS",
+                            "e": "73J",
+                            "f": "479",
+                            "si": 3327,
+                            "n": 0,
+                            "dd": "2020-06-28T09:30:00-04:00",
+                            "ad": "2020-06-28T12:35:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2449.5806
+                        },
+                        {
+                            "da": "PDX",
+                            "aa": "SFO",
+                            "c": 0,
+                            "m": "AS",
+                            "o": "QX",
+                            "e": "E75",
+                            "f": "2672",
+                            "si": 0,
+                            "n": 0,
+                            "dd": "2020-06-28T17:00:00-07:00",
+                            "ad": "2020-06-28T18:51:00-07:00",
+                            "tt": "f",
+                            "stf": false,
+                            "od": "/HORIZON AIR AS ALASKAHORIZON",
+                            "ac": [],
+                            "di": 551.0258
+                        },
+                        {
+                            "da": "SFO",
+                            "aa": "HKG",
+                            "c": 0,
+                            "m": "CX",
+                            "o": "CX",
+                            "e": "359",
+                            "f": "873",
+                            "si": 3194,
+                            "n": 0,
+                            "dd": "2020-06-29T00:55:00-07:00",
+                            "ad": "2020-06-30T06:00:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 6921.866
+                        },
+                        {
+                            "da": "HKG",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "KA",
+                            "o": "KA",
+                            "e": "333",
+                            "f": "900",
+                            "si": 3794,
+                            "n": 0,
+                            "dd": "2020-06-30T07:30:00+08:00",
+                            "ad": "2020-06-30T10:50:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1239.2649
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "PDX",
+                            "d": 265,
+                            "t": "Long layover at PDX for <b>4h 25m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "SFO",
+                            "d": 364,
+                            "t": "Long layover at SFO for <b>6h 4m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "HKG",
+                            "d": 90,
+                            "t": "Layover at HKG for <b>1h 30m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": [
+                        "/HORIZON AIR AS ALASKAHORIZON"
+                    ]
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1287",
+            "fsl": "VERY_GOOD",
+            "fs": 6.211752,
+            "od": "/HORIZON AIR AS ALASKAHORIZON"
+        }
+    ],
+    "equipment": [
+        {
+            "i": "E95",
+            "n": "Embraer 195",
+            "t": "Narrowbody Jets"
+        },
+        {
+            "i": "E75",
+            "n": "Embraer ERJ-175",
+            "t": "Narrowbody Jets"
+        },
+        {
+            "i": "321",
+            "n": "Airbus A321",
+            "t": "Narrowbody Jets"
+        },
+        {
+            "i": "333",
+            "n": "Airbus A330-300",
+            "t": "Widebody Jets"
+        },
+        {
+            "i": "359",
+            "n": "Airbus A350-900",
+            "t": "Widebody Jets"
+        },
+        {
+            "i": "77W",
+            "n": "Boeing 777-300ER",
+            "t": "Widebody Jets"
+        },
+        {
+            "i": "789",
+            "n": "Boeing 787-9",
+            "t": "Widebody Jets"
+        },
+        {
+            "i": "75W",
+            "n": "Boeing 757-200",
+            "t": "Narrowbody Jets"
+        },
+        {
+            "i": "73J",
+            "n": "Boeing 737-900",
+            "t": "Narrowbody Jets"
+        }
+    ],
+    "amenities": [
+        {
+            "c": "TV",
+            "t": "Television",
+            "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/tv.png"
+        },
+        {
+            "c": "REGULAR_SEAT",
+            "t": "Standard seat",
+            "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/regularSeat.png"
+        },
+        {
+            "c": "POWER",
+            "t": "Power available",
+            "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/power.png"
+        },
+        {
+            "c": "WIFI",
+            "t": "WiFi",
+            "l": "https://static.tacdn.com/img2/flights/amenity_icons/gray/wifi.png"
+        }
+    ],
+    "carriers": [
+        {
+            "i": 0,
+            "c": "ZZ",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+            "n": "Multiple Airlines"
+        },
+        {
+            "i": 8729017,
+            "c": "AS",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AlaskaAirlines2017.png",
+            "n": "Alaska"
+        },
+        {
+            "i": 8728914,
+            "c": "FI",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/IcelandAir.png",
+            "n": "Icelandair"
+        },
+        {
+            "i": 8729112,
+            "c": "LO",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/LOTPolishAirlines.png",
+            "n": "LOT"
+        },
+        {
+            "i": 8729046,
+            "c": "CX",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/CathayPacific.png",
+            "n": "Cathay Pacific"
+        },
+        {
+            "i": 8729063,
+            "c": "KA",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/CathayDragon.png",
+            "n": "Cathay Dragon"
+        },
+        {
+            "i": 0,
+            "c": "QX",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+            "n": "Horizon Air"
+        },
+        {
+            "i": 8729174,
+            "c": "TK",
+            "l": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/Turkish-Airlines.png",
+            "n": "Turkish Airlines"
+        }
+    ],
+    "providers": [
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/onetravel.png",
+            "n": "OneTravel",
+            "i": "OneTravel"
+        },
+        {
+            "c": "AA",
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/americanairlines.png",
+            "n": "American Airlines",
+            "i": "AA"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/flightnetwork.png",
+            "n": "FlightNetwork",
+            "i": "FlightNetwork"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/cheapfaresnow.png",
+            "n": "CheapFaresNow",
+            "i": "CheapFaresNow"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/gotogate.png",
+            "n": "GoToGate",
+            "i": "GoToGate"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/cheapoair.png",
+            "n": "CheapOair",
+            "i": "CheapoAir"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/edreams.png",
+            "n": "eDreams",
+            "i": "EDreams"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/justfly.png",
+            "n": "JustFly",
+            "i": "JustFly"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/vayama2.png",
+            "n": "Vayama",
+            "i": "Travix"
+        },
+        {
+            "l": "https://static.tacdn.com/img2/flights/partners/highres/travelgenio.png",
+            "n": "Travelgenio",
+            "i": "Travelgenio"
+        }
+    ],
+    "airports": [
+        {
+            "d": "Los Angeles, CA - Los Angeles International Airport (LAX)",
+            "tz": "America/Los_Angeles",
+            "c": "LAX",
+            "i": 32655,
+            "cn": "Los Angeles",
+            "g": {
+                "lat": 33.941944,
+                "lon": -118.40528
+            },
+            "cc": "US",
+            "n": "Los Angeles Intl Airport",
+            "st": "CA"
+        },
+        {
+            "d": "Hong Kong, China - Hong Kong International Airport (HKG)",
+            "tz": "Asia/Hong_Kong",
+            "c": "HKG",
+            "i": 294217,
+            "cn": "Hong Kong",
+            "g": {
+                "lat": 22.306667,
+                "lon": 113.92
+            },
+            "cc": "HK",
+            "n": "Hong Kong Intl Airport"
+        },
+        {
+            "d": "Portland, OR - Portland International Airport (PDX)",
+            "tz": "America/Los_Angeles",
+            "c": "PDX",
+            "i": 52024,
+            "cn": "Portland",
+            "g": {
+                "lat": 45.585835,
+                "lon": -122.59361
+            },
+            "cc": "US",
+            "n": "Portland Intl Airport",
+            "st": "OR"
+        },
+        {
+            "d": "Beijing, China - Capital Airport (PEK)",
+            "tz": "Asia/Shanghai",
+            "c": "PEK",
+            "i": 294212,
+            "cn": "Beijing",
+            "g": {
+                "lat": 40.077778,
+                "lon": 116.603615
+            },
+            "cc": "CN",
+            "n": "Capital Airport"
+        },
+        {
+            "d": "Oslo, Norway - Oslo Airport (OSL)",
+            "tz": "Europe/Oslo",
+            "c": "OSL",
+            "i": 190479,
+            "cn": "Oslo",
+            "g": {
+                "lat": 60.19528,
+                "lon": 11.097222
+            },
+            "cc": "NO",
+            "n": "Oslo Airport"
+        },
+        {
+            "d": "Istanbul, Turkey - Istanbul Airport (IST)",
+            "tz": "Europe/Istanbul",
+            "c": "IST",
+            "i": 293974,
+            "cn": "Istanbul",
+            "g": {
+                "lat": 41.26,
+                "lon": 28.742777
+            },
+            "cc": "TR",
+            "n": "Istanbul Airport"
+        },
+        {
+            "d": "Warsaw, Poland - Frederic Chopin (WAW)",
+            "tz": "Europe/Warsaw",
+            "c": "WAW",
+            "i": 274856,
+            "cn": "Warsaw",
+            "g": {
+                "lat": 52.166668,
+                "lon": 20.966667
+            },
+            "cc": "PL",
+            "n": "Frederic Chopin Airport"
+        },
+        {
+            "d": "San Francisco, CA - SFO International Airport (SFO)",
+            "tz": "America/Los_Angeles",
+            "c": "SFO",
+            "i": 60713,
+            "cn": "San Francisco",
+            "g": {
+                "lat": 37.621113,
+                "lon": -122.382774
+            },
+            "cc": "US",
+            "n": "SFO Intl Airport",
+            "st": "CA"
+        },
+        {
+            "d": "Reykjavik, Iceland - Keflavik International Airport (KEF)",
+            "tz": "Atlantic/Reykjavik",
+            "c": "KEF",
+            "i": 189970,
+            "cn": "Reykjavik",
+            "g": {
+                "lat": 63.978333,
+                "lon": -22.634722
+            },
+            "cc": "IS",
+            "n": "Keflavik Intl Airport"
+        },
+        {
+            "d": "New York City, NY - John F. Kennedy International Airport (JFK)",
+            "tz": "America/New_York",
+            "c": "JFK",
+            "i": 60763,
+            "cn": "New York City",
+            "g": {
+                "lat": 40.64639,
+                "lon": -73.78472
+            },
+            "cc": "US",
+            "n": "John F. Kennedy Intl Airport",
+            "st": "NY"
+        }
+    ],
+    "air_watch_info": {
+        "sw": false,
+        "ws": false
+    },
+    "disclaimers": [
+        {
+            "st": "TripAdvisor LLC is not a booking agent and does not charge any service fees to users of our site... (more)",
+            "lt": "Tripadvisor is not a booking agent and does not charge service fees to users of our site or guarantee the availability of prices advertised on our site. Our partners (airlines and booking agents) who list airfare and travel packages on Tripadvisor are required by law to include all fees and surcharges in their prices. Examples include the Federal Sept. 11th Security Fee, international departure and arrival taxes & fees, federal excise tax, and other service, handling and miscellaneous fees and surcharges. When you book with our partners, please check their site for a full disclosure of all applicable fees as required by the U.S. Department of Transportation. Airfares are generally quoted per person in USD unless otherwise noted.",
+            "dt": "SEARCH_RESULT",
+            "ct": "Learn more"
+        },
+        {
+            "st": "Baggage fees may apply",
+            "lt": "Prices subject to change. Fares found on Tripadvisor do not include baggage fees. Therefore, additional baggage <u>and other</u> fees may apply.",
+            "lk": "https://www.tripadvisor.com/AirlineFees",
+            "dt": "BAGGAGE",
+            "ct": "Learn more"
+        }
+    ],
+    "fly_score_info": {
+        "TERRIBLE": "This flight gets a terrible score based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews.",
+        "AVERAGE": "This flight gets an average score based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews.",
+        "POOR": "This flight gets a poor score based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews.",
+        "EXCELLENT": "This flight gets an excellent score based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews.",
+        "VERY_GOOD": "This flight gets a very good score based on the quality of the aircraft, amenities, flight duration, and Tripadvisor reviews."
+    },
+    "recommended_itins": {
+        "CHEAPEST": {
+            "key": "00FIFI1.0025JFK1.0615KEF0~00FIFI1.0750KEF1.1035OSL0~00TKTK1.1540OSL1.1935IST0~00TKTK1.2230IST2.0735PEK0",
+            "ac": "00FIFI1.0025JFK1.0615KEF0~00FIFI1.0750KEF1.1035OSL0~00TKTK1.1540OSL1.1935IST0~00TKTK1.2230IST2.0735PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 877.77,
+                        "f": 0,
+                        "dp": "$878",
+                        "df": "$0.00"
+                    },
+                    "id": "Odigeo|1|17",
+                    "m": "EDreamsUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2934",
+                    "s": "EDreams",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "KEF",
+                            "c": 0,
+                            "m": "FI",
+                            "o": "FI",
+                            "e": "75W",
+                            "f": "614",
+                            "si": 1414,
+                            "n": 0,
+                            "dd": "2020-06-28T20:25:00-04:00",
+                            "ad": "2020-06-29T06:15:00Z",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 2588.6309
+                        },
+                        {
+                            "da": "KEF",
+                            "aa": "OSL",
+                            "c": 0,
+                            "m": "FI",
+                            "o": "FI",
+                            "e": "75W",
+                            "f": "318",
+                            "si": 1414,
+                            "n": 0,
+                            "dd": "2020-06-29T07:50:00Z",
+                            "ad": "2020-06-29T12:35:00+02:00",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1108.9143
+                        },
+                        {
+                            "da": "OSL",
+                            "aa": "IST",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "321",
+                            "f": "1754",
+                            "si": 1431,
+                            "n": 0,
+                            "dd": "2020-06-29T17:40:00+02:00",
+                            "ad": "2020-06-29T22:35:00+03:00",
+                            "tt": "f",
+                            "stf": true,
+                            "ac": [
+                                "TV",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 1509.8397
+                        },
+                        {
+                            "da": "IST",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "20",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-30T01:30:00+03:00",
+                            "ad": "2020-06-30T15:35:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4392.9375
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "KEF",
+                            "d": 95,
+                            "t": "Layover at KEF for <b>1h 35m</b>",
+                            "c": "NORMAL"
+                        },
+                        {
+                            "s": "OSL",
+                            "d": 305,
+                            "t": "Long layover at OSL for <b>5h 5m</b>",
+                            "c": "LONG"
+                        },
+                        {
+                            "s": "IST",
+                            "d": 175,
+                            "t": "Layover at IST for <b>2h 55m</b>",
+                            "c": "NORMAL"
+                        }
+                    ],
+                    "od": []
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1273",
+            "fsl": "VERY_GOOD",
+            "fs": 6.3763137,
+            "od": ""
+        },
+        "BEST_VALUE_1": {
+            "key": "00TKTK0.0410JFK0.1350IST0~00TKTK0.2230IST1.0735PEK0",
+            "ac": "00TKTK0.0410JFK0.1350IST0~00TKTK0.2230IST1.0735PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 987.9,
+                        "f": 0,
+                        "dp": "$988",
+                        "df": "$0.00"
+                    },
+                    "id": "Odigeo|1|18",
+                    "m": "EDreamsUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2935",
+                    "s": "EDreams",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1046.6562,
+                        "f": 289.6,
+                        "dp": "$1,047",
+                        "df": "$289.60"
+                    },
+                    "id": "CheapFaresNow|1|3",
+                    "m": "LBFUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2936",
+                    "s": "CheapFaresNow",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "CheapoAir|1|9",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2937",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "OneTravel|1|4",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2938",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1073.44,
+                        "f": 0,
+                        "dp": "$1,074",
+                        "df": "$0.00"
+                    },
+                    "id": "FlightHub|1|3",
+                    "m": "JustFlyInternationalUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2939",
+                    "s": "JustFly",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1083.62,
+                        "f": 313.62,
+                        "dp": "$1,084",
+                        "df": "$313.62"
+                    },
+                    "id": "Travix|1|1",
+                    "m": "VayamaUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2940",
+                    "s": "Travix",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1142.63,
+                        "f": 301.6,
+                        "dp": "$1,143",
+                        "df": "$301.60"
+                    },
+                    "id": "Travelgenio|1|1",
+                    "m": "TravelgenioUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2941",
+                    "s": "Travelgenio",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1147.6,
+                        "f": 301.6,
+                        "dp": "$1,148",
+                        "df": "$301.60"
+                    },
+                    "id": "FlightNetwork|1|3",
+                    "m": "FlightNetworkUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2942",
+                    "s": "FlightNetwork",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1177.58,
+                        "f": 0,
+                        "dp": "$1,178",
+                        "df": "$0.00"
+                    },
+                    "id": "GoToGate|1|1",
+                    "m": "GotoGateUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2943",
+                    "s": "GoToGate",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "IST",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "12",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-28T00:10:00-04:00",
+                            "ad": "2020-06-28T16:50:00+03:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4993.419
+                        },
+                        {
+                            "da": "IST",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "20",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-29T01:30:00+03:00",
+                            "ad": "2020-06-29T15:35:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4392.9375
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "IST",
+                            "d": 520,
+                            "t": "Long layover at IST for <b>8h 40m</b>",
+                            "c": "LONG"
+                        }
+                    ],
+                    "od": []
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1274",
+            "fsl": "VERY_GOOD",
+            "fs": 7.6168528,
+            "od": ""
+        },
+        "BEST_VALUE_2": {
+            "key": "00TKTK0.2300JFK1.0850IST0~00TKTK1.2230IST2.0735PEK0",
+            "ac": "00TKTK0.2300JFK1.0850IST0~00TKTK1.2230IST2.0735PEK0",
+            "l": [
+                {
+                    "pr": {
+                        "p": 987.9,
+                        "f": 0,
+                        "dp": "$988",
+                        "df": "$0.00"
+                    },
+                    "id": "Odigeo|1|14",
+                    "m": "EDreamsUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2944",
+                    "s": "EDreams",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1046.6562,
+                        "f": 289.6,
+                        "dp": "$1,047",
+                        "df": "$289.60"
+                    },
+                    "id": "CheapFaresNow|1|2",
+                    "m": "LBFUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2945",
+                    "s": "CheapFaresNow",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "CheapoAir|1|15",
+                    "m": "CheapOairUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2946",
+                    "s": "CheapoAir",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1071.58,
+                        "f": 15.57999,
+                        "dp": "$1,072",
+                        "df": "$15.58"
+                    },
+                    "id": "OneTravel|1|3",
+                    "m": "OneTravelUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2947",
+                    "s": "OneTravel",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1073.44,
+                        "f": 0,
+                        "dp": "$1,074",
+                        "df": "$0.00"
+                    },
+                    "id": "FlightHub|1|2",
+                    "m": "JustFlyInternationalUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2948",
+                    "s": "JustFly",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1083.62,
+                        "f": 313.62,
+                        "dp": "$1,084",
+                        "df": "$313.62"
+                    },
+                    "id": "Travix|1|3",
+                    "m": "VayamaUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2949",
+                    "s": "Travix",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1142.63,
+                        "f": 301.6,
+                        "dp": "$1,143",
+                        "df": "$301.60"
+                    },
+                    "id": "Travelgenio|1|3",
+                    "m": "TravelgenioUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2950",
+                    "s": "Travelgenio",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1147.6,
+                        "f": 301.6,
+                        "dp": "$1,148",
+                        "df": "$301.60"
+                    },
+                    "id": "FlightNetwork|1|2",
+                    "m": "FlightNetworkUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2951",
+                    "s": "FlightNetwork",
+                    "pl": []
+                },
+                {
+                    "pr": {
+                        "p": 1177.58,
+                        "f": 0,
+                        "dp": "$1,178",
+                        "df": "$0.00"
+                    },
+                    "id": "GoToGate|1|3",
+                    "m": "GotoGateUSMeta",
+                    "impressionId": "ed79a2a1-c8e5-46ac-a4ae-d7b994519781.2952",
+                    "s": "GoToGate",
+                    "pl": []
+                }
+            ],
+            "f": [
+                {
+                    "l": [
+                        {
+                            "da": "JFK",
+                            "aa": "IST",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "2",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-28T19:00:00-04:00",
+                            "ad": "2020-06-29T11:50:00+03:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4993.419
+                        },
+                        {
+                            "da": "IST",
+                            "aa": "PEK",
+                            "c": 0,
+                            "m": "TK",
+                            "o": "TK",
+                            "e": "77W",
+                            "f": "20",
+                            "si": 2357,
+                            "n": 0,
+                            "dd": "2020-06-30T01:30:00+03:00",
+                            "ad": "2020-06-30T15:35:00+08:00",
+                            "tt": "f",
+                            "stf": false,
+                            "ac": [
+                                "POWER",
+                                "TV",
+                                "WIFI",
+                                "REGULAR_SEAT"
+                            ],
+                            "di": 4392.9375
+                        }
+                    ],
+                    "lo": [
+                        {
+                            "s": "IST",
+                            "d": 820,
+                            "t": "Long layover at IST for <b>13h 40m</b>",
+                            "c": "LONG"
+                        }
+                    ],
+                    "od": []
+                }
+            ],
+            "impressionId": "741edf4a-1da0-4350-a42d-57e01e10d526.1275",
+            "fsl": "VERY_GOOD",
+            "fs": 7.2168527,
+            "od": ""
+        }
+    },
+    "search_params": {
+        "pvid": "",
+        "et": 1590186212,
+        "o": 0,
+        "st": "2020-05-22T21:54:32Z",
+        "it": "ONE_WAY",
+        "so": "PRICE",
+        "t": {
+            "a": 1,
+            "s": 0,
+            "c": []
+        },
+        "s": [
+            {
+                "dd": "2020-06-28",
+                "o": "JFK",
+                "d": "PEK",
+                "no": false,
+                "nd": false
+            }
+        ],
+        "sid": "a11f0f1f-eb3e-4229-8637-c17b9d047289.98",
+        "c": 0,
+        "n": 15,
+        "f": {
+            "ss": [],
+            "mc": [],
+            "ns": [],
+            "oc": [],
+            "da": [],
+            "aa": [],
+            "ca": [],
+            "plp": [],
+            "al": [],
+            "tt": [],
+            "am": []
+        }
+    }
+}

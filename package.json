@@ -1,0 +1,30 @@
+{
+  "name": "can-i-go--web-application-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handleAPI.js",
+  "scripts": {
+    "start": "nodemon handleAPI",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuechangSpace/Can-I-Go--Web-Application-Development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuechangSpace/Can-I-Go--Web-Application-Development/issues"
+  },
+  "homepage": "https://github.com/yuechangSpace/Can-I-Go--Web-Application-Development#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "node": "^14.2.0",
+    "nstall": "^0.2.0",
+    "request": "^2.88.2",
+    "unirest": "^0.6.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {}
+}
